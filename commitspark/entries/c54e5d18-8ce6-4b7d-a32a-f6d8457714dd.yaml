@@ -1,0 +1,24 @@
+metadata:
+  type: Page
+  referencedBy:
+    - 6689014d-3a49-472f-b6ac-07800cf4e490
+data:
+  internalName: Landing page
+  title:
+    en: Commitspark Next.js example
+    de: Commitspark Next.js Beispiel
+  contentElements:
+    - text:
+        body:
+          en: |-
+            ## Welcome!
+
+            This is the [Commitspark](https://commitspark.com) Next.js example.
+          de: |-
+            ## Willkommen!
+
+            Das ist das [Commitspark](https://commitspark.com) Next.js Beispiel.
+  slug:
+    en: ""
+    de: ""
+  seo: null
