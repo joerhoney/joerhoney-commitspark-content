@@ -7,6 +7,12 @@ data:
     en: This One's for My Homies
     de: This One's for My Homies (in German)
   contentElements:
+    - hero:
+        heading:
+          en: Homie!
+          de: Homie! (in German)
+        image: null
+        imagePosition: null
     - text:
         body:
           en: Because a page gots to have some words, yo!
