@@ -5,11 +5,15 @@ data:
   internalName: This One's for My Homies
   title:
     en: This One's for My Homies
-    de: ""
-  contentElements: []
+    de: This One's for My Homies (in German)
+  contentElements:
+    - text:
+        body:
+          en: Because a page gots to have some words, yo!
+          de: Because a page gots to have some words, yo! (in German)
   slug:
     en: sup
-    de: ""
+    de: de/sup
   seo:
     metaTags:
       - name: description
